@@ -353,16 +353,3 @@
 .box_img {
     margin-top: -60px;
 }
-// Responsive_area_here //
-
-@media screen and (max-width:1000px){
-    .feedback_area {
-        grid-template-columns: 1fr;
-    }
-    .main_inner_area {
-        grid-template-columns: 1fr;
-    }
-    .parent_info {
-        grid-template-columns: auto auto;
-    }
-}
